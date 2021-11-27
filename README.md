@@ -15,7 +15,9 @@ Summarized steps for this analysis are following:
 5. Utilize cross-validation models (base models) and blend them to predict the housing prices.
 
 Followed by enhanced visualization, data transformation, cleaning, feature selection and engineering, several regression models have been performed.
+
 Ridge, Lasso, Gradient Boosting Regressor and others have been utilized as base models and stacked model with meta-regressor (xgboost) has been included.
+
 Then, we blended the model with base and stacked models, with corresponding weights.
 
 ## Results

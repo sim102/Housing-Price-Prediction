@@ -22,7 +22,8 @@ Then, we blended the model with base and stacked models, with corresponding weig
 
 ## Results
 
-Each Base models displays about 0.09 ~ 0.1 RMSE.
-Blending process decreases the RMSE by about 50%, achieving 0.05 RMSE in the end.
+Each Base models displayed about 0.09 ~ 0.1 RMSE.
+
+Blending process decreased the RMSE by about 50%, achieving 0.05 RMSE in the end.
 
 
